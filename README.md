@@ -1,10 +1,10 @@
 # 🧑🏻‍💻 Valdeano Barbosa da Silva Filho
 
-**`Desenvolvedor Frontend`**
+**`Desenvolvedor Front-end`**
 
 Seja bem-vindo ao meu perfil! 👋
 
-Sou Desenvolvedor Front-End e estou em transição de profissão. Adoro aprender coisas novas e resolver problemas, e o desenvolvimento web tem me proporcionado ótimos momentos. 
+Sou Desenvolvedor Front-end e estou em transição de profissão. Adoro aprender coisas novas e resolver problemas, e o desenvolvimento web tem me proporcionado ótimos momentos. 
 
 Atualmente venho atuando como técnico eletricista com 10 anos de indústria, experiência em manutenção e resolução de problemas. Também tenho muita vivência com atendimento a pessoas, tenho boa comunicação, sou proativo, gosto de trabalhar em equipe e sou muito resiliente.
 
