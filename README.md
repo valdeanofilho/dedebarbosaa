@@ -1,7 +1,7 @@
-## 🧑🏻‍💻 Valdeano Barbosa
-
+#🧑🏻‍💻 Valdeano Barbosa da Silva Filho
+**`Desenvolvedor Frontend`**
  <div>
-   <a href="https://github.com/dedebarbosaa">
+   <a href="https://github.com/valdeanofilho">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dedebarbosaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedebarbosaa&layout=compact&langs_count=6&theme=onedark"/>
 </div>
