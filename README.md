@@ -3,7 +3,7 @@
 **`Desenvolvedor Frontend`**
  <div>
    <a href="https://github.com/valdeanofilho">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valdeanofilho&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+   <img height="180em" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=valdeanofilho&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valdeanofilho&layout=compact&langs_count=6&theme=onedark"/>
 </div>
     
@@ -17,7 +17,7 @@
  
  
 <div> 
-  <a href="https://instagram.com/dedebarbosa_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:valdeano.filho@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://linkedin.com/in/valdeanofilhoo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:valdeano.filho@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/dedebarbosa_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
