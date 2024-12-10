@@ -11,6 +11,12 @@ Atualmente venho atuando como técnico eletricista com 10 anos de indústria, ex
 Sempre fui apaixonado por tecnologia e meus primeiros contatos com programação foram em 2011-2013, quando cursei REDES DE COMPUTADORES integrado ao ensino médio. Que foi um curso mais voltado para a infraestrutura de rede, porém, tivemos cadeiras que nos proporcionaram esse contato.
 
  <div>
+   <a href="https://github.com/devemdobro">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valdeanofilho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valdeanofilho&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+    
+ <div>
    <a href="https://github.com/valdeanofilho">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valdeanofilho&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valdeanofilho&layout=compact&langs_count=6&theme=onedark"/>
